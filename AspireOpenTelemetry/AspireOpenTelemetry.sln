@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireOpenTelemetry", "AspireOpenTelemetry.csproj", "{697B1151-0294-4C07-AB96-230929C3CA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697B1151-0294-4C07-AB96-230929C3CA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697B1151-0294-4C07-AB96-230929C3CA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697B1151-0294-4C07-AB96-230929C3CA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697B1151-0294-4C07-AB96-230929C3CA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A859BBA-0AE6-4C3C-AEAD-3BBA581B1693}
+	EndGlobalSection
+EndGlobal
